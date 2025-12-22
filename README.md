@@ -106,3 +106,10 @@ My work focuses on clean architecture, multi-tenant systems, and production-read
 ---
 
 ⭐ Always open to learning, collaboration, and building impactful software.
+
+---
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Madhur-211/Madhur-211/output/github-contribution-grid-snake-dark.svg)
+
